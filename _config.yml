@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fan Yang / Personal Website"
+title                    : "Fan Yang / Duke University"
 title_separator          : "-"
 name                     : &name "Fan Yang"
 description              : &description "personal description"
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "ECE Master student in Duke University."
   location         : "Durham, NC, USA"
-  employer         : "Duke University"
+  employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "fan.yang@duke.edu"
