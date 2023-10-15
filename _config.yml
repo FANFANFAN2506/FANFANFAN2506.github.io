@@ -235,9 +235,10 @@ defaults:
       path: ""
       type: educations
     values:
-      layout: education
+      layout: single
       author_profile: true
       share: true
+      comments: true
 
 # Sass/SCSS
 sass:
