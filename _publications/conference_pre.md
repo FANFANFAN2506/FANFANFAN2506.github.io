@@ -6,7 +6,7 @@ excerpt: "We present a information flow model for leaderless network system"
 date: 2021-08-24
 venue: "ISIITA2021: International Symposium on Innovation in Information Technology and Application"
 paperurl: "http://FANFANFAN2506.github.io/files/pre.pdf"
-citation: ""
+citation:
 ---
 
 The research on the consensus protocol design has been carried out for the leaderless networked system in this
@@ -21,5 +21,5 @@ the grouping of inbetween agents with Shapley value method. The grouping consens
 Ofalti-Saber algorithm in both single input and multi-inputs situation for leaderless network, and through the
 simulation, the algorithm is verified to perform well in the mentioned situations.
 
-[Download paper here](http://FANFANFAN2506.github.io/files/pre.pdf)
+[Download paper here](http://FANFANFAN2506.github.io/files/pre.pdf) \\
 [Conference Info](http://FANFANFAN2506.github.io/files/ISIITA2021.pdf)

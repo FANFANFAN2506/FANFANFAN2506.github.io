@@ -6,7 +6,7 @@ excerpt: "This is the extended work for the conference paper applying for patent
 date: 2022-11-22
 venue: "The China National Intellectual Property Administration"
 paperurl: "http://FANFANFAN2506.github.io/files/patent_XJTLU.pdf"
-citation: ""
+citation:
 ---
 
 This is the extended work for the conference paper: "A Computer Game-based Tangible Upper Limb Rehabilitation Device" applying for patent

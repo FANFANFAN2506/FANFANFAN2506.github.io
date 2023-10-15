@@ -1,7 +1,7 @@
 ---
 title: "A Computer Game-based Tangible Upper Limb Rehabilitation Device"
 collection: publications
-permalink: /publication/A Computer Game-based Tangible Upper Limb Rehabilitation Device.
+permalink: /publication/paper
 excerpt: "In this paper, we presented a computer game-based tangible upper limb rehab device for stroke people to stimulate them to exercise. "
 date: 2022-12-05
 venue: "HAI '22: Proceedings of the 10th International Conference on Human-Agent Interaction"
