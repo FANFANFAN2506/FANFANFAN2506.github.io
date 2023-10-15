@@ -2,7 +2,7 @@
 title: "Xi'an Jiaotong-Liverpool University"
 collection: educations
 type: "Bachelor of Engineering"
-permalink: /education/XJTLU
+permalink:
 venue: "Electrical Engineering"
 date: 2018.08 - 2022.06
 location: "Suzhou, China"
