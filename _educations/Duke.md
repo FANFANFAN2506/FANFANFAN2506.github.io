@@ -4,7 +4,8 @@ collection: educations
 type: "Master of Science"
 permalink:
 venue: "Electrical and Computer Engineering"
-date: 2022.09 - 2024.05
+start_date: 2022.09
+end_date: 2024.05
 location: "Durham, NC, USA"
 ---
 

@@ -4,7 +4,8 @@ collection: work
 type: "Graduate course"
 permalink: /work/ECE550
 venue: "Duke University, ECE"
-date: 2023.08 - 2023.12
+start_date: 2023.08
+end_date: 2023.12
 location: "Durham, USA"
 ---
 

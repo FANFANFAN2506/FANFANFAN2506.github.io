@@ -4,7 +4,8 @@ collection: educations
 type: "Bachelor of Engineering"
 permalink:
 venue: "Electrical Engineering"
-date: 2018.08 - 2022.06
+start_date: 2018.08
+end_date: 2022.06
 location: "Suzhou, China"
 ---
 

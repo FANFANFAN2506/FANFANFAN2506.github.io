@@ -4,7 +4,8 @@ collection: work
 type: "Intership"
 permalink: /work/intern
 venue: "Inspur Digital Enterprise Technology Ltd - Allin Big Data"
-date: 2023-05 - 2023.07
+start_date: 2023.05
+end_date: 2023.08
 location: "Chengdu, China"
 ---
 
