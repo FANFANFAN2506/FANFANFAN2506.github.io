@@ -1,7 +1,13 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Mini-UPS-Amazon"
+excerpt: "This a project that simulate the real world UPS and Amazon coopration, communicating with an agreed protocol to provide a purchasing and delivering functionalities.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+- Skill Sets: C++/PostgresDB/Django/Proxy design/Socket Programming/HTML/CSS
+- Devised a sophisticated communication protocol between UPS and AMAZON systems, utilizing Google Protocol
+  Buffers, to authentically emulate real-world Amazon order placement and UPS delivery processes.
+- Demonstrated technical finesse by skillfully implementing Resource Acquisition Is Initialization (RAII) principles,
+  effectively enhancing exception safety through the adept use of unique pointers.
+- Strategically optimized database operations with read-committed isolation for transactional integrity and efficiency,
+  leveraging row-level locks for significant performance enhancements.

@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi there, thanks for stopping by my website!
+Hi there, thanks for stopping by my website! \\
+I am actively seeking for PhD and research assistant positions. \\
+Research Interest: Embedded System, Hardware-Software Co-design, Microcontroller \\
+
+## About Me
 
 Fan Yang is a self-motivated and collaborative individual who excels both as an independent worker and as a team player. Currently pursuing a Master of Science degree in Electrical and Computer Engineering (ECE) at Duke University, Fan has built a solid foundation in programming and software development.
 
