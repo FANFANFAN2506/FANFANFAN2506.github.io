@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-### Welcome! Thanks for stopping by my website!
+### Welcome! I appreciate your visit to my website. Thank you for stopping by.
 
-**<mark>I am actively seeking for PhD and research assistant positions.<mark>** <br>
+### <mark>I am actively seeking for PhD and research assistant positions.<mark>
 
 Research Interest: Embedded System, Hardware-Software Co-design, Microcontroller, Sensors
 
