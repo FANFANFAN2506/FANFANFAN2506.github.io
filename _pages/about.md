@@ -10,7 +10,7 @@ redirect_from:
 
 ### Welcome! Thanks for stopping by my website!
 
-<mark>**I am actively seeking for PhD and research assistant positions.**<mark> <br>
+**<mark>I am actively seeking for PhD and research assistant positions.<mark>** <br>
 
 Research Interest: Embedded System, Hardware-Software Co-design, Microcontroller, Sensors
 
