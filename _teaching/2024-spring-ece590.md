@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2024-spring-ECE590
 venue: "Duke University, Pratt school of Engineering"
-date: 2024-02
+date: 2024-01-10
 location: "Durham, NC, USA"
 ---
 
