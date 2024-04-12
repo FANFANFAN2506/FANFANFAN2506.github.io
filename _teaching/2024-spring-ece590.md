@@ -1,7 +1,7 @@
 ---
-title: "TOWARDS MORE RELIABLE SOFTWARE"
+title: "Towards More Reliable Software"
 collection: teaching
-type: "Workshop"
+type: "Graduate Course"
 permalink: /teaching/2024-spring-ECE590
 venue: "Duke University, Pratt school of Engineering"
 date: 2024-01-10
