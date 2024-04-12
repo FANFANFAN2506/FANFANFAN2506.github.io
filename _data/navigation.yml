@@ -6,8 +6,12 @@ main:
   - title: "Educations"
     url: /educations/
 
-  - title: "Works"
-    url: /work/
+  - title: "Experiences"
+    url: /experiences/
+
+
+  - title: "Teachings"
+    url: /teaching/
 
   - title: "Portfolios"
     url: /portfolio/
