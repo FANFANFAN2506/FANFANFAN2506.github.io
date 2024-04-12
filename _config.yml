@@ -197,7 +197,7 @@ defaults:
   # _experiences
   - scope:
       path: ""
-      type: expriences
+      type: experiences
     values:
       layout: single
       author_profile: true
