@@ -55,20 +55,20 @@ bing_site_verification:
 alexa_site_verification:
 yandex_site_verification:
 
-# Social Sharing
-twitter:
-  username: &twitter
-facebook:
-  username:
-  app_id:
-  publisher:
-og_image: # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type: # Person or Organization (defaults to Person)
-  name: # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+# # Social Sharing
+# twitter:
+#   username: &twitter
+# facebook:
+#   username:
+#   app_id:
+#   publisher:
+# og_image: # Open Graph/Twitter default site image
+# # For specifying social profiles
+# # - https://developers.google.com/structured-data/customize/social-profiles
+# social:
+#   type: # Person or Organization (defaults to Person)
+#   name: # If the user or organization name differs from the site's name
+#   links: # An array of links to social media profiles
 
 # Analytics
 analytics:
@@ -98,16 +98,16 @@ author:
   google_plus:
   keybase:
   instagram:
-  impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory: 
   lastfm:
-  linkedin: "fan-yang-843770256/"
-  orcid: #"http://orcid.org/yourorcidurl"
+  linkedin: "fan-yang-duke/"
+  orcid: 
   pinterest:
   soundcloud:
-  stackoverflow: # http://stackoverflow.com/users/123456/username
+  stackoverflow: 
   steam:
   tumblr:
-  twitter: #"replacethistwitterhandle"
+  twitter:
   vine:
   weibo:
   xing:
@@ -169,7 +169,7 @@ kramdown:
 
 # Collections
 collections:
-  work:
+  experiences:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -179,6 +179,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   educations:
+    output: true
+    permalink: /:collection/:path/
+  teaching:
     output: true
     permalink: /:collection/:path/
 
@@ -191,10 +194,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _work
+  # _experiences
   - scope:
       path: ""
-      type: work
+      type: expriences
     values:
       layout: single
       author_profile: true
@@ -222,6 +225,15 @@ defaults:
   - scope:
       path: ""
       type: educations
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
     values:
       layout: single
       author_profile: true
