@@ -10,7 +10,9 @@ location: "Chengdu, China"
 ---
 
 - Skill Sets: Front-end/ETL/OracleSQL/OracleDB
-- Orchestrated data organization and analysis for “Smart Chuanmei” project, designing dashboards to enhance
-  insights for 7 sections and bolster informed decision making.
-- Enhanced data retrieval via ETL workflows within a data middleware, achieving 95% faster query times, and
-  more responsive interfaces, improving overall system efficiency and enhancing user satisfaction.
+- Optimized a web application project by developing SQL queries for Oracle Database extraction and designing intuitive BA
+dashboards on GSCloud ERP, effectively consolidating 131 key metrics into 7 decision-making sections.
+- Automated retrieval processes from Oracle Database through ETL workflows within pipeline middleware, resulting in a 95%
+improvement in query speed and enhanced interface responsiveness
+- Assisted the management team in identifying production instabilities through detailed trend analyses and comparisons with
+competitors, informing the design and optimization of the upcoming quarter's strategy.
