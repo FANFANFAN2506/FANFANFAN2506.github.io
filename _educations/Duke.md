@@ -9,4 +9,4 @@ end_date: 2024.05
 location: "Durham, NC, USA"
 ---
 
-- GPA 3.85/4.0
+- GPA 3.91/4.0
