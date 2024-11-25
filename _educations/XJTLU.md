@@ -9,7 +9,7 @@ end_date: 2022.06
 location: "Suzhou, Jiangsu, China"
 ---
 
-- GPA: 3.88/4.0
+- GPA: 3.91/4.0
 - Bachelor's degree with First Class Honours
 - 2018/19 University Academic Achievement Award (10%)
 - 2019/20 University Academic Achievement Award (10%)
